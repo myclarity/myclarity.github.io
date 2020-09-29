@@ -1,6 +1,8 @@
 # SmartDate Terms of Use
 
-Welcome to SmartDate! We provide an online coaching and advice platform that provides useful courses and community interaction that helps_people better navigate the dating world. These Terms of Use govern your use of SmartDate, a website and mobile application owned by SmartDate, Inc. (“SmartDate,” “Company,” “We,” “Our”), which also includes all related widgets, tools, data, software, and other services provided by us (the “Services”). We may come out with new features from time to time in the future, which we will communicate to you through our website and mobile application.
+Welcome to SmartDate, the relationship app that provides the tools and resources to successfully navigate every aspect of your love journey; whether you’re single, in a relationship, or married.
+
+We provide an online coaching and advice platform that provides useful courses and community interaction to help you with every facet of your dating and relationship journey. These Terms of Use govern your use of SmartDate, a website and mobile application owned by SmartDate, Inc. (“SmartDate,” “Company,” “We,” “Our”), which also includes all related widgets, tools, data, software, and other services provided by us (the “Services”). We may come out with new features from time to time in the future, which we will communicate to you through our website and mobile application.
 
 This document, together with our Privacy Policy and any other terms specifically referred to therein, constitute a legally binding agreement (the “Agreement”) between you and the Company in relation to your use of our Services. If you do not agree with these Terms, do not use SmartDate.
 
@@ -152,4 +154,4 @@ These Terms constitute the entire agreement between you and SmartDate with respe
 
 For questions or comments about the Terms, please email us at [info@smartdate.global](mailto:info@smartdate.global).
 
-_Last Update: June 17, 2020_
+_Last Update: Sep 28, 2020_
