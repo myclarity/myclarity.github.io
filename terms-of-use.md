@@ -1,10 +1,10 @@
-# SmartDate Terms of Use
+# Clarity Terms of Use
 
-Welcome to SmartDate, the relationship app that provides the tools and resources to successfully navigate every aspect of your love journey; whether you’re single, in a relationship, or married.
+Welcome to Clarity, the relationship app that provides the tools and resources to successfully navigate every aspect of your love journey; whether you’re single, in a relationship, or married.
 
-We provide an online coaching and advice platform that provides useful courses and community interaction to help you with every facet of your dating and relationship journey. These Terms of Use govern your use of SmartDate, a website and mobile application owned by SmartDate, Inc. (“SmartDate,” “Company,” “We,” “Our”), which also includes all related widgets, tools, data, software, and other services provided by us (the “Services”). We may come out with new features from time to time in the future, which we will communicate to you through our website and mobile application.
+We provide an online coaching and advice platform that provides useful courses and community interaction to help you with every facet of your dating and relationship journey. These Terms of Use govern your use of Clarity, a website and mobile application owned by Clarity, Inc. (“Clarity,” “Company,” “We,” “Our”), which also includes all related widgets, tools, data, software, and other services provided by us (the “Services”). We may come out with new features from time to time in the future, which we will communicate to you through our website and mobile application.
 
-This document, together with our Privacy Policy and any other terms specifically referred to therein, constitute a legally binding agreement (the “Agreement”) between you and the Company in relation to your use of our Services. If you do not agree with these Terms, do not use SmartDate.
+This document, together with our Privacy Policy and any other terms specifically referred to therein, constitute a legally binding agreement (the “Agreement”) between you and the Company in relation to your use of our Services. If you do not agree with these Terms, do not use Clarity.
 
 ## Acceptance of Terms of Use
 
@@ -16,17 +16,17 @@ We reserve the right to change, alter, replace or otherwise modify (collectively
 
 When we make any updates to these Terms of Use, we will highlight this fact on the website or online platform. In addition, if you register an account and these Terms of Use are subsequently changed in any material respect (for example, for security, legal, or regulatory reasons), we will notify you in advance by sending an email to the email address that you have provided to us. You will have no obligation to continue using the Services following any such notification, but if you do not terminate your account as described in the Termination section below, your continued use of the Services will constitute your acceptance of the revised Terms of Use.
 
-## Your SmartDate Account
+## Your Clarity Account
 
-When you first create a SmartDate account, we ask that you register by including your name, basic information about yourself, email address and creating a password. Access to the Services are only available to registered users who have expressly agreed to these Terms of Use and our Privacy Policy. You are solely responsible for maintaining the confidentiality and security of your login and account information, and you will remain responsible for all activity emanating from your account, whether or not such activity was authorized by you.
+When you first create a Clarity account, we ask that you register by including your name, basic information about yourself, email address and creating a password. Access to the Services are only available to registered users who have expressly agreed to these Terms of Use and our Privacy Policy. You are solely responsible for maintaining the confidentiality and security of your login and account information, and you will remain responsible for all activity emanating from your account, whether or not such activity was authorized by you.
 
 We reserve the right to disallow, cancel, remove, or reassign certain usernames and permalinks in appropriate circumstances, as determined by us in our sole discretion, and may, with or without prior notice, suspend, terminate, and delete your account if activities occur on that account which, in our sole discretion, would or might constitute a violation of these Terms of Use or an infringement or violation of the rights of any third party, or of any applicable laws or regulations.
 
-You may terminate your account at any time through our Services, or you can contact us at [info@smartdate.global](mailto:info@smartdate.global).
+You may terminate your account at any time through our Services, or you can contact us at [info@clarityapp.io](mailto:info@clarityapp.io).
 
 ## Your Use of the Services
 
-Subject to your strict compliance with these Terms of Use, SmartDate grants you a limited, personal, non-exclusive, revocable, non-assignable, and non-transferable right and license to use the Services in order to generate text, graphics, software, photographs, videos, data, and other materials (collectively “Content”), view Content, share and download Content using the features of the Services where the appropriate functionality has been enabled.
+Subject to your strict compliance with these Terms of Use, Clarity grants you a limited, personal, non-exclusive, revocable, non-assignable, and non-transferable right and license to use the Services in order to generate text, graphics, software, photographs, videos, data, and other materials (collectively “Content”), view Content, share and download Content using the features of the Services where the appropriate functionality has been enabled.
 
 The above licenses are conditional upon your strict compliance with these Terms of Use including, without limitation, the following:
 
@@ -34,7 +34,7 @@ The above licenses are conditional upon your strict compliance with these Terms 
 (ii) You must not employ scraping or similar techniques to aggregate, repurpose, republish or otherwise make use of any Content.
 (iii) You must not alter or remove, attempt to alter or remove any trademark, copyright or other proprietary or legal notices contained in, or appearing on, the Services or any Content appearing on the Services (other than your Content).
 (iv) You must not, and must not permit any third party to, copy or adapt the object code of the Website or any of the Services, or reverse engineer, reverse assemble, decompile, modify or attempt to discover any source or object code of any part of the Services, or circumvent or attempt to circumvent or copy any copy protection mechanism or access any rights management information pertaining to Content other than your Content.
-(v) You must respect the wishes of other users. If you are blocked by another user, you agree to not attempt to contact them on SmartDate either from the account you were blocked from or any other account.
+(v) You must respect the wishes of other users. If you are blocked by another user, you agree to not attempt to contact them on Clarity either from the account you were blocked from or any other account.
 (vi) You must not use the Services to upload, post, store, transmit, display, copy, distribute, promote, make available or otherwise communicate to the public:
 
 - any Content that is offensive, abusive, libelous, defamatory, obscene, racist, ethnically or culturally offensive, indecent, that promotes violence, terrorism, or illegal acts, incites hatred on grounds of race, gender, religion or sexual orientation, or is otherwise objectionable in the Company’s reasonable discretion;
@@ -45,13 +45,13 @@ The above licenses are conditional upon your strict compliance with these Terms 
 
 (vii) You must not commit or engage in, or encourage, induce, solicit or promote, any conduct that would constitute a criminal offence, give rise to civil liability or otherwise violate any law or regulation.
 (viii) You must not deliberately impersonate any person or entity or otherwise misrepresents your affiliation with a person or entity, for example, by registering an account in the name of another person or company or sending messages or making comments using the name of another person.
-You agree to comply with the above conditions and acknowledge and agree that SmartDate has the right, in its sole discretion, to terminate your account or take such other action as we see fit if you breach any of the above conditions or any of the other terms of these Terms of Use. This may include taking court action and/or reporting offending users to the relevant authorities.
+You agree to comply with the above conditions and acknowledge and agree that Clarity has the right, in its sole discretion, to terminate your account or take such other action as we see fit if you breach any of the above conditions or any of the other terms of these Terms of Use. This may include taking court action and/or reporting offending users to the relevant authorities.
 
-## User License Grant to SmartDate
+## User License Grant to Clarity
 
-Subject to the obligation to maintain the confidentiality of Personal Information about a user as identified in the Privacy Policy, You, as a user of the Services grant SmartDate a non-exclusive, fully paid-up, royalty-free, perpetual, and irrevocable license, throughout the universe, to use, reproduce, distribute, modify, adapt, prepare derivative works of, publicly display, publicly perform, communicate to the public, and otherwise utilize and exploit Personal Information and information about Your use of the Service to:
+Subject to the obligation to maintain the confidentiality of Personal Information about a user as identified in the Privacy Policy, You, as a user of the Services grant Clarity a non-exclusive, fully paid-up, royalty-free, perpetual, and irrevocable license, throughout the universe, to use, reproduce, distribute, modify, adapt, prepare derivative works of, publicly display, publicly perform, communicate to the public, and otherwise utilize and exploit Personal Information and information about Your use of the Service to:
 
-- improve the Service or the functionality of SmartDate;
+- improve the Service or the functionality of Clarity;
 - to respond to user inquiries or technological issues or problems;
 - to comply with applicable laws; for example, to respond to regulatory authorities responsible for oversight of government benefit programs or our operations; to parties or courts in the course of judicial or administrative proceedings; to law enforcement officials during an investigation
 
@@ -62,7 +62,7 @@ The Services and its entire contents, features, and functionality (including but
 All related names, logos, product and service names, designs, and slogans are trademarks of the Company or its affiliates or licensors. You must not use such marks without the prior written permission of the Company. All other names, logos, product and service names, designs, and slogans on this Website are the trademarks of their respective owners.
 
 Copyright Infringement and the Digital Millennium Copyright Act (DMCA) Safe Harbor
-We take the intellectual property rights of others seriously and require that users of SmartDate do the same. The Digital Millennium Copyright Act (DMCA) established a process for addressing claims of copyright infringement that we have implemented for our services. If you own a copyright or have authority to act on behalf of a copyright owner and want to report a claim that a third party is infringing that material on or through SmartDate, please send a notice to our copyright agent that includes all of the items below and we will expeditiously take appropriate action:
+We take the intellectual property rights of others seriously and require that users of Clarity do the same. The Digital Millennium Copyright Act (DMCA) established a process for addressing claims of copyright infringement that we have implemented for our services. If you own a copyright or have authority to act on behalf of a copyright owner and want to report a claim that a third party is infringing that material on or through Clarity, please send a notice to our copyright agent that includes all of the items below and we will expeditiously take appropriate action:
 
 1. A description of the copyrighted work that you claim is being infringed;
 2. A description of the material you claim is infringing and that you want removed or access to which you want disabled and the URL or other location of that material;
@@ -71,7 +71,7 @@ We take the intellectual property rights of others seriously and require that us
 5. The following statement: “The information in this notice is accurate and, under penalty of perjury, I am the owner, or authorized to act on behalf of the owner, of the copyright or of an exclusive right that is allegedly infringed”; and
 6. An electronic or physical signature of the owner of the copyright or a person authorized to act on the owner's behalf.
 
-Our designated copyright agent to receive such claims can be reached at [info@smartdate.global](mailto:info@smartdate.global).
+Our designated copyright agent to receive such claims can be reached at [info@clarityapp.io](mailto:info@clarityapp.io).
 We may, in appropriate circumstances, disable or terminate the accounts of users who may be repeat infringers.
 
 This process does not limit our ability to pursue any other remedies we may have to address suspected infringement.
@@ -132,7 +132,7 @@ All personal data that you provide to us in connection with your use of the Serv
 
 ## Applicable Law and Jurisdiction
 
-If a dispute arises between you and SmartDate, our goal is to provide you with a neutral and cost-effective means of resolving the issue quickly. In the event of a dispute, we encourage you to contact us first to resolve your problem directly with us. You may contact us regarding any complaints or disputes in the “Contact us” section below in these Terms.
+If a dispute arises between you and Clarity, our goal is to provide you with a neutral and cost-effective means of resolving the issue quickly. In the event of a dispute, we encourage you to contact us first to resolve your problem directly with us. You may contact us regarding any complaints or disputes in the “Contact us” section below in these Terms.
 
 These Terms of Use shall be construed in accordance with and governed by the laws of the United States and the State of California, without reference to their rules regarding conflicts of law.
 
@@ -140,18 +140,18 @@ ANY DISPUTE, CLAIM OR CONTROVERSY ARISING OUT OF OR RELATING TO THIS AGREEMENT O
 
 ## Availability of Services
 
-SmartDate may discontinue or change our Services at any time with or without prior notice and without liability to you. We make no guarantee that our Services will be available at all times or without interruption.
+Clarity may discontinue or change our Services at any time with or without prior notice and without liability to you. We make no guarantee that our Services will be available at all times or without interruption.
 
 ## Termination
 
-You agree that SmartDate may terminate your account at any time for your violation of any of the provisions of these Terms. If you are dissatisfied with the SmartDate Services, please let us know by emailing us at [info@smartdate.global](mailto:info@smartdate.global). Your only other remedy with respect to any dissatisfaction with (a) the Services, (b) any portion of these Terms, (c) any policy or practice of SmartDate in providing the Services, or (d) any content or information transmitted through the Services, is to terminate the Services and your account. You may terminate the Services at any time by discontinuing your use of any and all parts of our Services and providing SmartDate notice of termination by emailing us at [info@smartdate.global](mailto:info@smartdate.global).
+You agree that Clarity may terminate your account at any time for your violation of any of the provisions of these Terms. If you are dissatisfied with the Clarity Services, please let us know by emailing us at [info@clarityapp.io](mailto:info@clarityapp.io). Your only other remedy with respect to any dissatisfaction with (a) the Services, (b) any portion of these Terms, (c) any policy or practice of Clarity in providing the Services, or (d) any content or information transmitted through the Services, is to terminate the Services and your account. You may terminate the Services at any time by discontinuing your use of any and all parts of our Services and providing Clarity notice of termination by emailing us at [info@clarityapp.io](mailto:info@clarityapp.io).
 
 ## Complete Agreement
 
-These Terms constitute the entire agreement between you and SmartDate with respect to the use of the SmartDate Site and Content. Your use of the SmartDate Site is also subject to the SmartDate Privacy Policy. If any provision of these Terms is found to be invalid by any court having competent jurisdiction, the invalidity of such provision shall not affect the validity of the remaining provisions, which shall remain in full force and effect. No waiver of any of these Terms shall be deemed a further or continuing waiver of such term or condition or any other term or condition.
+These Terms constitute the entire agreement between you and Clarity with respect to the use of the Clarity Site and Content. Your use of the Clarity Site is also subject to the Clarity Privacy Policy. If any provision of these Terms is found to be invalid by any court having competent jurisdiction, the invalidity of such provision shall not affect the validity of the remaining provisions, which shall remain in full force and effect. No waiver of any of these Terms shall be deemed a further or continuing waiver of such term or condition or any other term or condition.
 
 ## Contact Us
 
-For questions or comments about the Terms, please email us at [info@smartdate.global](mailto:info@smartdate.global).
+For questions or comments about the Terms, please email us at [info@clarityapp.io](mailto:info@clarityapp.io).
 
 _Last Update: Sep 28, 2020_

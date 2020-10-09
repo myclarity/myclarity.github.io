@@ -1,10 +1,10 @@
-# SmartDate Forum Community Guidelines
+# Clarity Forum Community Guidelines
 
-We strive to make our community forums a safe and discreet space for people to talk about their experiences. Please remember that you may choose to be anonymous on the forums, but from the backend, SmartDate trust and safety team has access to your identity.
+We strive to make our community forums a safe and discreet space for people to talk about their experiences. Please remember that you may choose to be anonymous on the forums, but from the backend, Clarity trust and safety team has access to your identity.
 
-By using SmartDate, you agree to comply with our terms of use, to adhere to our community guidelines below, to comply with all applicable laws pertaining to hate speech and online conduct and you acknowledge and agree that SmartDate has the right, in its sole discretion, to terminate your account or take such other action as we see fit if you breach any of the conditions herein or any of our Terms of Use. **This may include taking legal/court action and/or reporting offending users to the relevant authorities.**
+By using Clarity, you agree to comply with our terms of use, to adhere to our community guidelines below, to comply with all applicable laws pertaining to hate speech and online conduct and you acknowledge and agree that Clarity has the right, in its sole discretion, to terminate your account or take such other action as we see fit if you breach any of the conditions herein or any of our Terms of Use. **This may include taking legal/court action and/or reporting offending users to the relevant authorities.**
 
-Please review the following guidelines, which are meant to facilitate a great SmartDate experience.
+Please review the following guidelines, which are meant to facilitate a great Clarity experience.
 
 **The following conduct, material or content is STRICTLY PROHIBITED on our community forums and will subject users to being permanently banned, reported as well as other actions to the extent of the law:**
 
@@ -16,6 +16,6 @@ Please review the following guidelines, which are meant to facilitate a great Sm
 - any unsolicited or unauthorized advertising, promotional messages, spam or any other form of solicitation.
 - any deliberate impersonation of another person or entity or otherwise misrepresent your affiliation with a person or entity.
 
-By using this software, you agree to comply with the above conditions and acknowledge and agree that SmartDate has the right, in its sole discretion, to terminate your account or take such other action as we see fit if you breach any of the above conditions or any of the other terms of these Terms of Use. **This may include taking court action and/or reporting offending users to the relevant authorities.**
+By using this software, you agree to comply with the above conditions and acknowledge and agree that Clarity has the right, in its sole discretion, to terminate your account or take such other action as we see fit if you breach any of the above conditions or any of the other terms of these Terms of Use. **This may include taking court action and/or reporting offending users to the relevant authorities.**
 
 _Last Update: Sep 28, 2020_

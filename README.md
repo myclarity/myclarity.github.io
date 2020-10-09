@@ -1,3 +1,3 @@
-# SmartDate Docs
+# Clarity Docs
 
-This repository is for hosting some public-facing static pages including terms and conditions and privacy policy.
+This repository is for hosting some public-facing static pages including terms of use, community guidelines and privacy policy.
